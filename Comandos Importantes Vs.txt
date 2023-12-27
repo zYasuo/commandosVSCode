@@ -1,4 +1,5 @@
 Ctrl + P Abre a barra de pesquisa "Ir para arquivo" para navegar rapidamente para qualquer arquivo no projeto.
+Ctrl + Shift + G / G - Abre a Aba de commit do git
 Ctrl + F4 Fecha a Janela do Arquivo 
 Ctrl + Shift + E: Navega na sidebar de arquivos
 Ctrl + =/- (Cmd + =/- no Mac): Aumenta ou diminui o zoom da tela
