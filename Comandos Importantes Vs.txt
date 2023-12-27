@@ -1,0 +1,16 @@
+Ctrl + P Abre a barra de pesquisa "Ir para arquivo" para navegar rapidamente para qualquer arquivo no projeto.
+Ctrl + F4 Fecha a Janela do Arquivo 
+Ctrl + Shift + E: Navega na sidebar de arquivos
+Ctrl + =/- (Cmd + =/- no Mac): Aumenta ou diminui o zoom da tela
+Ctrl + TAB alternar entre arquivos (ideal para 02 arquivos)
+Ctrl + page up/down alternar entre arquivos.
+Ctrl + B Mostra ou esconde a barra lateral (explorador de arquivos).
+Ctrl + D Seleciona a próxima instância da palavra atual ou a seleção atual. Repetir este atalho para selecionar ocorrências adicionais.
+Ctrl + Shift + K: Exclui a linha atual.
+Ctrl + Shift + Enter: Insere uma nova linha acima da linha atual.
+Alt + ↑ / ↓: Move a linha atual para cima ou para baixo.
+Ctrl + Shift + Z – Refaz a última ação.
+Ctrl + Shift + F – Abre a pesquisa em todos os arquivos.
+Ctrl + G – Vai para uma linha específica do arquivo.
+Ctrl + Shift + O – Abre a lista de símbolos do arquivo atual.
+
